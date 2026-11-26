@@ -3,9 +3,9 @@
 这个仓库每小时生成两个中国订阅链接：
 
 - `proxyscrape_cn`
-  https://raw.githubusercontent.com/yinyuangu/Sub-Store/main/subscriptions/proxyscrape_cn.txt
+  https://raw.githubusercontent.com/eatblued/Sub-Store/main/subscriptions/proxyscrape_cn.txt
 - `pedro3pv_cn`
-  https://raw.githubusercontent.com/yinyuangu/Sub-Store/main/subscriptions/pedro3pv_cn.txt
+  https://raw.githubusercontent.com/eatblued/Sub-Store/main/subscriptions/pedro3pv_cn.txt
 
 说明：
 
